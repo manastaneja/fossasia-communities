@@ -1,0 +1,35 @@
+{
+  "name": "Linux Users Group - Riyadh",
+  "url": "https://riyadhlug.org/",
+  "location": {
+    "city": "Riyadh",
+    "country": "SA",
+    "lat": 24.6333,
+    "lon": 46.7167,
+    "address": {
+      "Name": "Baader technology incubators"
+    }
+  },
+  "contact": {
+    "email": "riyadh-lug@googlegroups.com",
+    "ml": "https://groups.google.com/riyadh-lug",
+    "twitter": "@RLUGroup"
+  },
+  "state": {
+    "logo": "https://riyadhlug.org/static/static/img/saudi-tux-arabin_140x140.jpg",
+    "lastchange": "2015-01-16T14:48:24.020Z"
+  },
+  "timeline": [
+    {
+      "description": "Meet ديسمبر 2014: Ansible to prepare and systems management",
+      "timestamp": "2014-12-27",
+      "url": "https://riyadhlug.org/events/5/"
+    },
+    {
+      "description": "The start of the women's group",
+      "timestamp": "2014-11-29",
+      "url": "https://riyadhlug.org/events/4/"
+    }
+  ],
+  "api": "1.0.1"
+}
